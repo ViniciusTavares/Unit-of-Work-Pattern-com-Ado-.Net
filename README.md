@@ -8,3 +8,8 @@
 
 Visual Studio 2010 + <br />
 .Net Framework 4.5
+
+
+<h2> Observações </h2> 
+
+Para criar o banco de dados para teste execute o arquivo "createDatabase.sql" dentro da pasta "scripts". 
