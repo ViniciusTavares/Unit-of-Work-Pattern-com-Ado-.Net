@@ -1,0 +1,176 @@
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\obj\Debug\DemoUoW.UI.csprojResolveAssemblyReference.cache
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.UI.dll.config
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Antlr3.Runtime.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\EntityFramework.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Newtonsoft.Json.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Helpers.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Mvc.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Optimization.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Razor.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\WebGrease.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.Model.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Helpers.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Mvc.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Optimization.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.Razor.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Newtonsoft.Json.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Antlr3.Runtime.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\EntityFramework.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\obj\Debug\DemoUoW.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\obj\Debug\DemoUoW.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.DAL.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.UI\bin\DemoUoW.DAL.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\obj\Debug\DemoUoW.UI.csprojResolveAssemblyReference.cache
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\obj\Debug\DemoUoW.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\obj\Debug\DemoUoW.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.UI.dll.config
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.UI.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.UI.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Antlr3.Runtime.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.DAL.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\EntityFramework.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Newtonsoft.Json.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Owin.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Helpers.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Mvc.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Optimization.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Razor.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\WebGrease.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.DAL.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\DemoUoW.Model.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Helpers.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Mvc.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Optimization.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.Razor.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Newtonsoft.Json.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Antlr3.Runtime.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\EntityFramework.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.UI.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.UI.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Antlr3.Runtime.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.DAL.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.Model.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\EntityFramework.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\EntityFramework.SqlServer.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Newtonsoft.Json.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Owin.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Helpers.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Mvc.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Optimization.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Razor.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.Razor.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\WebGrease.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.DAL.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\DemoUoW.Model.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Helpers.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Mvc.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Optimization.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.Razor.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\System.Web.WebPages.Razor.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Newtonsoft.Json.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Antlr3.Runtime.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\EntityFramework.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\EntityFramework.SqlServer.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\obj\Debug\DemoUoW.UI.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\obj\Debug\DemoUoW.UI.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.UI\obj\Debug\DemoUoW.UI.pdb

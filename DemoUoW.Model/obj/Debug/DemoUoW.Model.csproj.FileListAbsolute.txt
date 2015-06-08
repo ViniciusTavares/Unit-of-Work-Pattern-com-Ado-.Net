@@ -1,0 +1,10 @@
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.Model\bin\Debug\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.Model\bin\Debug\DemoUoW.Model.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.Model\obj\Debug\DemoUoW.Model.csprojResolveAssemblyReference.cache
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.Model\obj\Debug\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.Model\obj\Debug\DemoUoW.Model.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.Model\bin\Debug\DemoUoW.Model.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.Model\bin\Debug\DemoUoW.Model.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.Model\obj\Debug\DemoUoW.Model.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.Model\obj\Debug\DemoUoW.Model.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.Model\obj\Debug\DemoUoW.Model.pdb

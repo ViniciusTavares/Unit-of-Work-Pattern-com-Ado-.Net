@@ -1,0 +1,16 @@
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAL.dll.config
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAL.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAL.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.Model.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAL.csprojResolveAssemblyReference.cache
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAL.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAL.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\bin\Debug\DemoUoW.DAL.dll.config
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\bin\Debug\DemoUoW.DAL.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\bin\Debug\DemoUoW.DAL.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\bin\Debug\DemoUoW.Model.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\bin\Debug\DemoUoW.Model.pdb
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\obj\Debug\DemoUoW.DAL.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\obj\Debug\DemoUoW.DAL.dll
+C:\Projetos_Pessoais\UnitOfWork com Ado.net\DemoUoW.DAL\obj\Debug\DemoUoW.DAL.pdb

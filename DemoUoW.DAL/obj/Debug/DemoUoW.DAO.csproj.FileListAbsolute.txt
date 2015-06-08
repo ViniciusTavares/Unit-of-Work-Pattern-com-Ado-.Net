@@ -1,0 +1,8 @@
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAO.csprojResolveAssemblyReference.cache
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAO.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAO.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAO.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\obj\Debug\DemoUoW.DAO.pdb
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.DAO.dll.config
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.Model.dll
+C:\Users\trueiory\OneDrive\Blog\Posts\DemoUoW.UI\DemoUoW.DAO\bin\Debug\DemoUoW.Model.pdb
